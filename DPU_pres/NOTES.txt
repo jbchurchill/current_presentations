@@ -1,0 +1,5 @@
+Sequence for digitizing is
+1. Georeference the image(s).
+2. Digitize the points (usually manholes).
+3. Digitize the lines.
+4. Reconcile & Post.
