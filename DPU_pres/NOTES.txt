@@ -1,3 +1,15 @@
+OUTLINE:
+1. Justification - Initial Project
+2. Needs Evaluation to expand the project
+3. Communication with DPU
+4. Starting the Project - Digitizing Details (see sequence for digitizing below).
+5. Extensions of the Project - Survey 123 and Collector (maybe).
+
+Quotes:
+Know but be willing to challenge "conventional wisdom". Your needs are those of your organization and its GIS users.
+Use this to talk about recommendations of adopting existing templates and schemas.
+
+
 Sequence for digitizing is
 1. Georeference the image(s).
 2. Digitize the points (usually manholes).
